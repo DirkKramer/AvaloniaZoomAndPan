@@ -13,7 +13,7 @@ Properties:
 -   ZoomEnabled: bool
 -   PanEnabled: bool
 
-NuGET:
+Terminal:
 ```
 dotnet add package AvaloniaZoomAndPan
 ```
