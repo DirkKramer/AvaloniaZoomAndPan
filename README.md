@@ -1,6 +1,6 @@
 # AvaloniaZoomAndPan
 
-View for enabling zooming and panning for the child of this control.
+View for zooming and panning
 
 Controls:
 -   MouseWheel: Zoom
