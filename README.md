@@ -18,6 +18,8 @@ Terminal:
 dotnet add package AvaloniaZoomAndPan
 ```
 
+OR
+
 Package Manager Console
 ```
 Install-Package AvaloniaZoomAndPan -Version 1.0.0
