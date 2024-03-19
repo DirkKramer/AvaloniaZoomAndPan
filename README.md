@@ -18,4 +18,9 @@ NuGET:
 dotnet add package AvaloniaZoomAndPan
 ```
 
+Package Manager Console
+```
+Install-Package AvaloniaZoomAndPan -Version 1.0.0
+```
+
 ![zoomandpan (1)](https://github.com/DirkKramer/AvaloniaZoomAndPan/assets/46933603/b95ee48c-ab1a-4dc6-97e5-e6862a709aec)
