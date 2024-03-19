@@ -16,7 +16,7 @@ namespace AvaloniaZoomAndPan
     /// Properties:
     /// -   MaxZoom: value between 0.0 and 1.0 default: 0.2
     /// -   ZoomSpeed: value between 0.0 and 1.0 default: 0.05
-    /// -   ZoomEnabled: bool
+    /// -   ZoomEnabled: bool  
     /// -   PanEnabled: bool
     /// </summary>
     public class ZoomAndPanView : Border
